@@ -18,3 +18,5 @@ ros2 run f1tenth_path_sub path_to_csv
 You can plot your path or path error by running python scripts *plot_path.py* and *error_graph.py*.
 
 ## Example graphs:
+![path_graph](./resource/plot_path.png)
+![error_graph](./resource/path_error.png)
